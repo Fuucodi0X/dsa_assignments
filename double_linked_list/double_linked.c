@@ -28,3 +28,5 @@ temp = temp->next;
 }
 printf("\n");
 }
+
+int main () {}
